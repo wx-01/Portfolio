@@ -31,7 +31,7 @@ const AboutSection = () => {
             </a>
             {/* i know i could have used cn 😋 */}
             <a
-              href="\public\Wajid Ali.pdf" download="Wajid Ali"
+              href="./Wajid Ali.pdf" download="Wajid Ali"
               className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
             >
               Download CV
