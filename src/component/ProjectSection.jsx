@@ -7,7 +7,7 @@ const projects = [
     title: "Chat App",
     description:
       "A real-time chat application built with React, Node.js, and Socket.io. Supports instant messaging, user authentication and seamless communication.",
-    image: "/public/projects/chatty1.PNG",
+    image: "/projects/chatty1.PNG",
     tags: ["React", "node.js", "Socket.io", "MongoDB"],
     demourl: "https://chat-app-891e.onrender.com",
     githuburl: "https://github.com/wx-01/Chat-app",
@@ -17,7 +17,7 @@ const projects = [
     title: "Movie Search App",
     description:
       "A sleek movie search interface built with React and the OMDb API. Users can search for movies. Focused on API integration, dynamic rendering, and responsive UI design.",
-    image: "/public/projects/movies.PNG",
+    image: "/projects/movies.PNG",
     tags: ["React", "Tailwind", "Axios"],
     demourl: "https://react-movies-search.onrender.com",
     githuburl: "https://github.com/wx-01/React_movies_search",
@@ -27,7 +27,7 @@ const projects = [
     title: "Crud App",
     description:
       "A simple and efficient CRUD application built with React. Allows users to manage data entries dynamically with real-time updates and a clean, user-friendly interface.",
-    image: "/public/projects/crud.PNG",
+    image: "/projects/crud.PNG",
     tags: ["React", "Tailwind", "node.js", "MYsql"],
     demourl: "https://crud-g867.onrender.com/",
     githuburl: "https://github.com/wx-01/CRUD_",
@@ -37,7 +37,7 @@ const projects = [
     title: "Tic Tac Toe",
     description:
       "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, designed to sharpen my understanding of DOM manipulation, game logic, and responsive UI development.",
-    image: "/public/projects/tictactoe.PNG",
+    image: "/projects/tictactoe.PNG",
     tags: ["HTML", "CSS","Javascript"],
     demourl: "https://wx-01.github.io/TicTacToe/",
     githuburl: "https://github.com/wx-01/TicTacToe",
@@ -47,7 +47,7 @@ const projects = [
     title: "Blog Preveiew CARD",
     description:
       "A responsive blog article card featuring hover effects and structured typography. Built to improve layout and visual hierarchy using clean HTML and CSS.",
-    image: "/public/projects/blog.PNG",
+    image: "/projects/blog.PNG",
     tags: ["HTML", "CSS"],
     demourl: "https://wx-01.github.io/blog-prev-card-comp/",
     githuburl: "https://github.com/wx-01/blog-prev-card-comp",
