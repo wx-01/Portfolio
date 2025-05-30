@@ -47,7 +47,7 @@ const projects = [
     title: "Blog Preveiew CARD",
     description:
       "A responsive blog article card featuring hover effects and structured typography. Built to improve layout and visual hierarchy using clean HTML and CSS.",
-    image: "./projects/blog.png",
+    image: "./projects/blog.PNG",
     tags: ["HTML", "CSS"],
     demourl: "https://wx-01.github.io/blog-prev-card-comp/",
     githuburl: "https://github.com/wx-01/blog-prev-card-comp",
@@ -57,7 +57,7 @@ const projects = [
     title: "QR-code Component",
     description:
       "A centered QR code card built with mobile-first design in mind. Focused on mastering alignment, spacing, and component styling with pure CSS.",
-    image: "./projects/qr.png",
+    image: "./projects/qr.PNG",
     tags: ["HTML", "CSS"],
     demourl: "https://wx-01.github.io/qrcode-comp/",
     githuburl: "https://github.com/wx-01/qrcode-comp",
