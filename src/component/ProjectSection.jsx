@@ -14,6 +14,16 @@ const projects = [
   },
   {
     id: 2,
+    title: "Birthday Wishing",
+    description:
+      "A personalized 3D animated birthday wish generator app built with React and Spline. Offers a unique way to express gratitude and celebrate special occasions.",
+    image: "./projects/birthday.PNG",
+    tags: ["React", "Spline", "Firebase"],
+    demourl: "https://birthday-fmmf.onrender.com/",
+    githuburl: "https://github.com/wx-01/Birthday",
+  },
+  {
+    id: 3,
     title: "Movie Search App",
     description:
       "A sleek movie search interface built with React and the OMDb API. Users can search for movies. Focused on API integration, dynamic rendering, and responsive UI design.",
@@ -23,7 +33,7 @@ const projects = [
     githuburl: "https://github.com/wx-01/React_movies_search",
   },
   {
-    id: 3,
+    id: 4,
     title: "Crud App",
     description:
       "A simple and efficient CRUD application built with React. Allows users to manage data entries dynamically with real-time updates and a clean, user-friendly interface.",
@@ -33,7 +43,7 @@ const projects = [
     githuburl: "https://github.com/wx-01/CRUD_",
   },
 {
-    id: 4,
+    id: 5,
     title: "Tic Tac Toe",
     description:
       "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, designed to sharpen my understanding of DOM manipulation, game logic, and responsive UI development.",
@@ -43,7 +53,7 @@ const projects = [
     githuburl: "https://github.com/wx-01/TicTacToe",
   },
   {
-    id: 5,
+    id: 6,
     title: "Blog Preveiew CARD",
     description:
       "A responsive blog article card featuring hover effects and structured typography. Built to improve layout and visual hierarchy using clean HTML and CSS.",
@@ -53,7 +63,7 @@ const projects = [
     githuburl: "https://github.com/wx-01/blog-prev-card-comp",
   },
   {
-    id: 6,
+    id: 7,
     title: "QR-code Component",
     description:
       "A centered QR code card built with mobile-first design in mind. Focused on mastering alignment, spacing, and component styling with pure CSS.",
