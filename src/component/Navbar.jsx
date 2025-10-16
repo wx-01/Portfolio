@@ -1,4 +1,4 @@
- import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
 import { MenuIcon, X } from "lucide-react";
 
@@ -57,7 +57,7 @@ const Navbar = () => {
           </span>
         </a>
         {/*desktop navbar */}
-        <div className="hidden md:flex space-x-8 md:pr-7">
+        <div className="hidden md:flex space-x-8 md:pr-7 text-shadow-md">
           {navItems.map((item, key) => (
             <a
               key={key}

@@ -12,18 +12,20 @@ const AboutSection = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
-          <h3 className="text-2xl font-semibold text-primary">Passionate Web devloper</h3>
+          <h3 className="text-2xl font-semibold text-primary">
+            Passionate Web devloper
+          </h3>
 
           <p className="text-muted-foreground">
-            I specialize in building responsive, accessible,
-             and high-performance web applications using the 
-             MERN stack and other modern tools.
+            I specialize in building responsive, accessible, and
+            high-performance web applications using the MERN stack and other
+            modern tools.
           </p>
 
           <p className="text-muted-foreground">
-            I'm passionate about turning real-world problems into
-             practical solutions through clean code,intuitive design,
-              and smart development practices.
+            I'm passionate about turning real-world problems into practical
+            solutions through clean code,intuitive design, and smart development
+            practices.
           </p>
           <div className="flex flex-col md:flex-row gap-4 pt-4 justify-center">
             <a href="#contact" className="cosmic-button">
@@ -31,7 +33,8 @@ const AboutSection = () => {
             </a>
             {/* i know i could have used cn 😋 */}
             <a
-              href="./Wajid-Ali.PDF" download="Wajid Ali"
+              href="./Wajid-Ali01.PDF"
+              download="Wajid Ali"
               className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
             >
               Download CV
@@ -46,10 +49,12 @@ const AboutSection = () => {
                 <Code className="size-6 text-primary" />
               </div>
               <div className="text-left">
-                <h4 className="font-semiBold text-lg text-primary">Web Development</h4>
+                <h4 className="font-semiBold text-lg text-primary">
+                  Web Development
+                </h4>
                 <p className="text-muted-foreground">
-                  Developing modern, full-stack web applications with a focus on performance, 
-                  scalability, and user accessibility.
+                  Developing modern, full-stack web applications with a focus on
+                  performance, scalability, and user accessibility.
                 </p>
               </div>
             </div>
@@ -61,10 +66,12 @@ const AboutSection = () => {
                 <User className="size-6 text-primary" />
               </div>
               <div className="text-left">
-                <h4 className="font-semiBold text-lg text-primary">UI/UX Design</h4>
+                <h4 className="font-semiBold text-lg text-primary">
+                  UI/UX Design
+                </h4>
                 <p className="text-muted-foreground">
-                  Crafting clean, user-centered interfaces that balance aesthetics with usability
-                   to deliver smooth user experiences.
+                  Crafting clean, user-centered interfaces that balance
+                  aesthetics with usability to deliver smooth user experiences.
                 </p>
               </div>
             </div>
@@ -76,10 +83,13 @@ const AboutSection = () => {
                 <Briefcase className="size-6 text-primary" />
               </div>
               <div className="text-left">
-                <h4 className="font-semiBold text-lg text-primary">Project Management</h4>
+                <h4 className="font-semiBold text-lg text-primary">
+                  Project Management
+                </h4>
                 <p className="text-muted-foreground">
-                  Managing and delivering end-to-end solutions using agile workflows, from ideation and 
-                  design to deployment and iteration.
+                  Managing and delivering end-to-end solutions using agile
+                  workflows, from ideation and design to deployment and
+                  iteration.
                 </p>
               </div>
             </div>
