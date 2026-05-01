@@ -4,13 +4,13 @@ import React from "react";
 const projects = [
   {
     id: 1,
-    title: "Chat App",
+    title: "CodBeyón",
     description:
-      "A real-time chat application built with React, Node.js, and Socket.io. Supports instant messaging, user authentication and seamless communication.",
+      "Contributed to the development of multiple projects including e-commerce platforms and AI-powered chat applications, gaining hands-on experience across the full development lifecycle.Developed, optimized, and maintained features using Next.js, focusing on scalability, performance, and clean architecture",
     image: "./projects/chatty1.PNG",
-    tags: ["React", "node.js", "Socket.io", "MongoDB"],
-    demourl: "https://chat-app-891e.onrender.com",
-    githuburl: "https://github.com/wx-01/Chat-app",
+    tags: ["Next.js"],
+    demourl: "https://www.codbeyon.com/",
+    //     githuburl: "https://github.com/wx-01/Chat-app",
   },
   {
     id: 2,
@@ -120,13 +120,13 @@ const ExperienceSection = () => {
                   >
                     <ExternalLink size={23} />
                   </a>
-                  <a
+                  {/* <a
                     href={project.githuburl}
                     target="_blank"
                     className="text-foreground/80 hover:text-primary transition-colors duration-300"
                   >
                     <Github size={23} />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
